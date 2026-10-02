@@ -1,0 +1,202 @@
+{
+  "tests": {
+    "Hemoglobin": {
+      "what_it_measures": "A protein in red blood cells that carries oxygen from the lungs to the rest of the body.",
+      "plain_meaning": "Hemoglobin shows how well your red blood cells can carry oxygen to your organs and muscles.",
+      "low_meaning": "May indicate anemia, which can make you feel tired or cold. Can be caused by low dietary iron, vitamin deficiency, or blood loss.",
+      "high_meaning": "May occur with dehydration, smoking, living at high altitudes, or lung conditions.",
+      "non_serious_causes": "Temporary dehydration, mild dietary lack of iron, minor blood loss (such as heavy menstruation).",
+      "questions_for_doctor": [
+        "Could my iron intake or diet explain my hemoglobin level?",
+        "Do you recommend an iron supplement or further blood tests?"
+      ]
+    },
+    "White Blood Cells": {
+      "what_it_measures": "The cells in your immune system that protect against infections and fight illness.",
+      "plain_meaning": "WBC count checks your body's immune defense system.",
+      "low_meaning": "May mean your immune system is temporarily weakened or suppressed.",
+      "high_meaning": "Often means the immune system is responding to an infection, inflammation, or physical stress.",
+      "non_serious_causes": "Recent common cold, physical stress, intense exercise, minor skin cut or inflammation.",
+      "questions_for_doctor": [
+        "Is this elevation related to a recent cold or infection?",
+        "Should we recheck this count after a few weeks?"
+      ]
+    },
+    "Platelets": {
+      "what_it_measures": "Small cell fragments in the blood that help clot and stop bleeding when you have an injury.",
+      "plain_meaning": "Platelets prevent excessive bruising and help wounds heal.",
+      "low_meaning": "May mean you could bruise more easily or take longer to stop bleeding after a cut.",
+      "high_meaning": "Often a temporary response to inflammation, iron deficiency, or infection.",
+      "non_serious_causes": "Mild viral illness recovery, vigorous workout, reactive response to minor inflammation.",
+      "questions_for_doctor": [
+        "Do I need to be careful with any medications that affect bleeding?",
+        "Should we monitor this with a repeat panel?"
+      ]
+    },
+    "Fasting Blood Glucose": {
+      "what_it_measures": "The amount of sugar (glucose) currently circulating in your bloodstream after fasting for at least 8 hours.",
+      "plain_meaning": "Checks how effectively your body processes sugar for energy.",
+      "low_meaning": "Called hypoglycemia; can cause shakiness, sweating, or dizziness.",
+      "high_meaning": "Called hyperglycemia; elevated levels may indicate prediabetes or diabetes if persistent.",
+      "non_serious_causes": "Not fasting strictly for 8 hours prior to test, acute stress, lack of sleep, recent sugary beverage.",
+      "questions_for_doctor": [
+        "Was this taken under optimal fasting conditions?",
+        "Would an HbA1c test give a clearer 3-month picture of my blood sugar?"
+      ]
+    },
+    "HbA1c": {
+      "what_it_measures": "The percentage of hemoglobin coated with sugar, reflecting your average blood glucose over the past 2 to 3 months.",
+      "plain_meaning": "Provides a long-term snapshot of blood sugar levels rather than a single moment.",
+      "low_meaning": "Uncommon, may happen with certain anemias or high red blood cell turnover.",
+      "high_meaning": "Values from 5.7% to 6.4% suggest prediabetes; 6.5% or higher may indicate diabetes.",
+      "non_serious_causes": "Certain hemoglobin variants or recent blood donation can alter readings.",
+      "questions_for_doctor": [
+        "What dietary or lifestyle adjustments could help lower my average blood sugar?",
+        "How frequently should I retest my HbA1c?"
+      ]
+    },
+    "Potassium": {
+      "what_it_measures": "An essential electrolyte and mineral vital for heart rhythm, nerve signals, and muscle contractions.",
+      "plain_meaning": "Keeps your heartbeat regular and your muscles working smoothly.",
+      "low_meaning": "Hypokalemia; can cause muscle cramps, weakness, or irregular heart rhythms.",
+      "high_meaning": "Hyperkalemia; can be dangerous for heart rhythm and requires prompt medical attention.",
+      "non_serious_causes": "Dehydration, vomiting/diarrhea, or hemolysis (red cells breaking in test tube during drawing).",
+      "questions_for_doctor": [
+        "Could any medication or diuretic I take be altering my potassium?",
+        "Does this require an immediate repeat test?"
+      ]
+    },
+    "Sodium": {
+      "what_it_measures": "An electrolyte that balances water levels in your body and assists nerve and muscle function.",
+      "plain_meaning": "Helps maintain normal fluid balance and blood pressure.",
+      "low_meaning": "Hyponatremia; can cause confusion, headache, nausea, or fatigue.",
+      "high_meaning": "Hypernatremia; usually caused by inadequate water intake or dehydration.",
+      "non_serious_causes": "Drinking large volumes of plain water before test, mild dehydration, excess sweating.",
+      "questions_for_doctor": [
+        "How does my fluid intake affect this reading?",
+        "Should we review my daily salt and water balance?"
+      ]
+    },
+    "Creatinine": {
+      "what_it_measures": "A waste byproduct of muscle breakdown that healthy kidneys filter out through urine.",
+      "plain_meaning": "A key indicator of how well your kidneys are filtering waste.",
+      "low_meaning": "Usually harmless, seen with low muscle mass or low protein intake.",
+      "high_meaning": "May mean kidneys are working harder or less efficiently to filter waste.",
+      "non_serious_causes": "Strenuous heavy weightlifting, eating large amounts of cooked red meat, mild dehydration.",
+      "questions_for_doctor": [
+        "Could dehydration or heavy exercise have contributed to this reading?",
+        "Would you recommend checking an eGFR or urine test?"
+      ]
+    },
+    "Blood Urea Nitrogen": {
+      "what_it_measures": "The amount of nitrogen in your blood that comes from urea, a waste product of protein breakdown.",
+      "plain_meaning": "Another indicator of kidney filtering ability and hydration state.",
+      "low_meaning": "Rarely an issue; may reflect a low-protein diet or high hydration.",
+      "high_meaning": "Can rise when kidneys are strained, with dehydration, or high-protein intake.",
+      "non_serious_causes": "Mild dehydration, recent high-protein meal.",
+      "questions_for_doctor": [
+        "How does this BUN result compare with my creatinine?",
+        "Do I need to drink more fluids before repeating the test?"
+      ]
+    },
+    "Alanine Aminotransferase": {
+      "what_it_measures": "An enzyme primarily found inside liver cells that helps process protein.",
+      "plain_meaning": "Signals whether liver cells are stressed or inflamed.",
+      "low_meaning": "Normal and expected.",
+      "high_meaning": "Suggests liver cells may be inflamed, irritated, or stressed.",
+      "non_serious_causes": "Intense exercise, taking over-the-counter pain medications (like acetaminophen), mild fatty liver, recent alcohol.",
+      "questions_for_doctor": [
+        "Could medications or supplements I take be affecting my liver enzymes?",
+        "Should we repeat this in 4 to 6 weeks to see if it normalizes?"
+      ]
+    },
+    "Aspartate Aminotransferase": {
+      "what_it_measures": "An enzyme found in the liver, heart, and muscle tissue.",
+      "plain_meaning": "Evaluates liver and muscle tissue health.",
+      "low_meaning": "Normal and expected.",
+      "high_meaning": "May indicate liver irritation, muscle injury, or recent strenuous exertion.",
+      "non_serious_causes": "Heavy weight training, muscle soreness, minor viral infection.",
+      "questions_for_doctor": [
+        "Could my workout routine explain this number?",
+        "How does this compare to my ALT value?"
+      ]
+    },
+    "Total Cholesterol": {
+      "what_it_measures": "The overall amount of cholesterol lipids circulating in your blood.",
+      "plain_meaning": "Gives an initial overview of blood fats and cardiovascular health.",
+      "low_meaning": "Generally good, though very low levels are sometimes evaluated for nutrition.",
+      "high_meaning": "May indicate increased risk of plaque buildup in blood vessels over time.",
+      "non_serious_causes": "High dietary saturated fat, genetic tendency, lack of physical activity.",
+      "questions_for_doctor": [
+        "What is my overall cardiovascular risk score?",
+        "What heart-healthy dietary changes do you recommend first?"
+      ]
+    },
+    "LDL Cholesterol": {
+      "what_it_measures": "Low-Density Lipoprotein, often called 'bad cholesterol', which can build up inside artery walls.",
+      "plain_meaning": "Measures the cholesterol that can clog arteries if too high.",
+      "low_meaning": "Generally ideal for cardiovascular protection.",
+      "high_meaning": "Increases long-term risk of heart disease or vascular narrowing.",
+      "non_serious_causes": "Dietary choices, lack of cardiovascular exercise, temporary stress.",
+      "questions_for_doctor": [
+        "What is my personalized target LDL based on my age and family history?",
+        "Can we try dietary improvements before considering medication?"
+      ]
+    },
+    "HDL Cholesterol": {
+      "what_it_measures": "High-Density Lipoprotein, known as 'good cholesterol', which carries excess cholesterol back to the liver.",
+      "plain_meaning": "Measures the protective cholesterol that helps clear arteries.",
+      "low_meaning": "Lower levels provide less natural protection for the heart.",
+      "high_meaning": "Higher levels are generally protective and desirable.",
+      "non_serious_causes": "Sedentary lifestyle, smoking, refined carbohydrate diet.",
+      "questions_for_doctor": [
+        "What exercises or foods help boost HDL naturally?",
+        "How does my HDL to LDL ratio look?"
+      ]
+    },
+    "Triglycerides": {
+      "what_it_measures": "A type of fat (lipid) found in blood converted from unused calories.",
+      "plain_meaning": "Reflects how your body stores unused calories and fat.",
+      "low_meaning": "Generally healthy and normal.",
+      "high_meaning": "Associated with metabolic strain, prediabetes, or heart risk.",
+      "non_serious_causes": "Eating carbohydrates or drinking alcohol within 24 hours of blood draw.",
+      "questions_for_doctor": [
+        "Did my pre-test meal affect these triglycerides?",
+        "What changes in carbohydrate intake would help?"
+      ]
+    },
+    "Thyroid Stimulating Hormone": {
+      "what_it_measures": "A hormone produced by the pituitary gland that directs the thyroid gland to make thyroid hormones.",
+      "plain_meaning": "Master controller that balances your metabolism and body energy.",
+      "low_meaning": "May indicate hyperthyroidism (overactive thyroid), causing fast heart rate or weight loss.",
+      "high_meaning": "May indicate hypothyroidism (underactive thyroid), causing fatigue or weight gain.",
+      "non_serious_causes": "Recovery from illness, circadian timing of blood test, high biotin supplements.",
+      "questions_for_doctor": [
+        "Could biotin or other supplements have skewed this result?",
+        "Should we test Free T3 and Free T4 for confirmation?"
+      ]
+    },
+    "Vitamin D (25-Hydroxy)": {
+      "what_it_measures": "The circulating storage form of Vitamin D essential for bones, calcium absorption, and immune function.",
+      "plain_meaning": "Checks whether you have enough Vitamin D for bone and immune vitality.",
+      "low_meaning": "Very common; can lead to bone softness, fatigue, or muscle aches.",
+      "high_meaning": "Rare, usually only caused by excessive supplement intake.",
+      "non_serious_causes": "Limited sun exposure, winter season, darker skin tone, low dietary dairy or fish.",
+      "questions_for_doctor": [
+        "What daily Vitamin D3 supplement dose do you recommend for me?",
+        "When should we check my level again?"
+      ]
+    },
+    "Vitamin B12": {
+      "what_it_measures": "A vital vitamin needed for red blood cell formation and nerve health.",
+      "plain_meaning": "Ensures healthy nerves, clear memory, and blood production.",
+      "low_meaning": "Can cause tingling in hands/feet, memory fog, fatigue, or anemia.",
+      "high_meaning": "Usually harmless, often reflects recent vitamin supplements.",
+      "non_serious_causes": "Vegetarian/vegan diet without supplements, digestive absorption issues.",
+      "questions_for_doctor": [
+        "Should I take an oral B12 supplement or sublingual tablet?",
+        "Does my diet provide enough active B12?"
+      ]
+    }
+  }
+}

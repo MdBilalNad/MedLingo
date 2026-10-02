@@ -1,0 +1,10 @@
+ST. JUDE REGIONAL MEDICAL LAB
+Patient Name: Robert Chen
+MRN: 8841920    DOB: 02/09/1962    Sex: M
+Location: Outpatient Clinic    Attending: Dr. K. Patel
+
+SERUM ELECTROLYTE REPORT:
+Potassium (Serum)            6.8         mmol/L       3.5 - 5.0        ***CRITICAL HIGH***
+Sodium                       138         mmol/L       135 - 145        NORMAL
+Creatinine                   2.6         mg/dL        0.7 - 1.3        HIGH
+Blood Urea Nitrogen          45          mg/dL        7 - 20           HIGH

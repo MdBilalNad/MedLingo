@@ -1,0 +1,14 @@
+METROPOLITAN GENERAL HOSPITAL - PATHOLOGY LAB
+Patient Name: Maria Santos
+DOB: 14/06/1988    Age: 38    Sex: Female
+Patient ID: MGH-98421    Referred By: Dr. Evans, MD
+Sample Date: 12-OCT-2026    Status: Completed
+
+TEST NAME                      RESULT      UNIT         REFERENCE RANGE
+-------------------------------------------------------------------------
+Hemoglobin                     10.2        g/dL         12.1 - 15.1     [L]
+White Blood Cells              6.4         x10^3/uL     4.5 - 11.0
+Platelets                      265         x10^3/uL     150 - 450
+Red Blood Cells                3.7         x10^6/uL     4.0 - 5.2       [L]
+-------------------------------------------------------------------------
+Comments: Slight microcytosis observed. Advise clinical correlation.

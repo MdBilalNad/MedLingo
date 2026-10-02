@@ -1,0 +1,6 @@
+{
+  "name": "MedLingo - Multilingual Medical Report Explainer",
+  "description": "Translate and explain medical lab reports in plain language across multiple languages with deterministic flagging, doctor questions, and audio support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

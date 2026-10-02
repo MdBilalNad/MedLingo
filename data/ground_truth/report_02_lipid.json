@@ -1,0 +1,44 @@
+{
+  "id": "report_02_lipid",
+  "patient_name": "Ahmed Al-Mansoor",
+  "age": 52,
+  "sex": "male",
+  "results": [
+    {
+      "test_name": "Total Cholesterol",
+      "raw_name": "Total Cholesterol",
+      "value": 248.0,
+      "unit": "mg/dL",
+      "ref_low": null,
+      "ref_high": 200.0,
+      "flag": "high"
+    },
+    {
+      "test_name": "LDL Cholesterol",
+      "raw_name": "LDL Cholesterol",
+      "value": 162.0,
+      "unit": "mg/dL",
+      "ref_low": null,
+      "ref_high": 100.0,
+      "flag": "high"
+    },
+    {
+      "test_name": "HDL Cholesterol",
+      "raw_name": "HDL Cholesterol",
+      "value": 36.0,
+      "unit": "mg/dL",
+      "ref_low": 40.0,
+      "ref_high": null,
+      "flag": "low"
+    },
+    {
+      "test_name": "Triglycerides",
+      "raw_name": "Triglycerides",
+      "value": 250.0,
+      "unit": "mg/dL",
+      "ref_low": null,
+      "ref_high": 150.0,
+      "flag": "high"
+    }
+  ]
+}

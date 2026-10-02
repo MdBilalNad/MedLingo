@@ -1,0 +1,35 @@
+{
+  "id": "report_01_cbc",
+  "patient_name": "Maria Santos",
+  "age": 38,
+  "sex": "female",
+  "results": [
+    {
+      "test_name": "Hemoglobin",
+      "raw_name": "Hemoglobin",
+      "value": 10.2,
+      "unit": "g/dL",
+      "ref_low": 12.1,
+      "ref_high": 15.1,
+      "flag": "low"
+    },
+    {
+      "test_name": "White Blood Cells",
+      "raw_name": "White Blood Cells",
+      "value": 6.4,
+      "unit": "x10^3/uL",
+      "ref_low": 4.5,
+      "ref_high": 11.0,
+      "flag": "normal"
+    },
+    {
+      "test_name": "Platelets",
+      "raw_name": "Platelets",
+      "value": 265.0,
+      "unit": "x10^3/uL",
+      "ref_low": 150.0,
+      "ref_high": 450.0,
+      "flag": "normal"
+    }
+  ]
+}

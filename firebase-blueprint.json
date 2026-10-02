@@ -1,0 +1,64 @@
+{
+  "entities": {
+    "User": {
+      "title": "User Profile",
+      "description": "User account information and preferences",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string" },
+        "email": { "type": "string" },
+        "displayName": { "type": "string" },
+        "photoURL": { "type": "string" },
+        "preferredLanguage": { "type": "string" },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["uid", "email"]
+    },
+    "SavedReport": {
+      "title": "Saved Lab Report",
+      "description": "Analyzed medical laboratory report record",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "title": { "type": "string" },
+        "rawText": { "type": "string" },
+        "language": { "type": "string" },
+        "summary": { "type": "string" },
+        "hasCritical": { "type": "boolean" },
+        "urgentNotice": { "type": "string" },
+        "results": { "type": "string" },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["id", "userId", "language", "summary"]
+    },
+    "ChatMessage": {
+      "title": "Chat Message",
+      "description": "Patient follow-up consultation chat message with Dr. MedLingo",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "reportId": { "type": "string" },
+        "sender": { "type": "string", "enum": ["user", "doctor"] },
+        "message": { "type": "string" },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["id", "userId", "sender", "message"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "User",
+      "description": "Stores user profiles with self-access only."
+    },
+    "/users/{userId}/savedReports/{reportId}": {
+      "schema": "SavedReport",
+      "description": "Stores individual user lab reports accessible only by document owner."
+    },
+    "/users/{userId}/savedReports/{reportId}/chatMessages/{messageId}": {
+      "schema": "ChatMessage",
+      "description": "Stores conversation messages for a specific report between user and Dr. MedLingo."
+    }
+  }
+}

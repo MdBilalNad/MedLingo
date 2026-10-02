@@ -1,0 +1,12 @@
+APEX DIAGNOSTIC LABORATORIES
+Patient: Ahmed Al-Mansoor
+Age: 52    Gender: Male    ID: APX-771204
+Physician: Dr. Sarah Jenkins
+Collection: Fasting 12 hours
+
+LIPID HEALTH PANEL
+Test Name                    Value       Units        Desirable Range
+Total Cholesterol            248         mg/dL        < 200            [H]
+LDL Cholesterol              162         mg/dL        < 100            [H]
+HDL Cholesterol              36          mg/dL        > 40             [L]
+Triglycerides                250         mg/dL        < 150            [H]
