@@ -1,5 +1,5 @@
 # MedLingo - Multilingual Medical Report Explainer
-
+It helps analyze reports
 > **Hackathon Edition**: Decision support and health literacy for patients, migrant workers, rural families, and non-native speakers.
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
